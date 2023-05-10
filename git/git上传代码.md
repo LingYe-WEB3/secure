@@ -1,6 +1,5 @@
 # git上传代码
 
-`
 
 ### 1. 创建远程仓库
 1.  打开你的git，选择新建仓库
@@ -73,7 +72,6 @@ git push origin main
 刷新仓库，查看新增的文件
 
 ![img](https://github.com/LingYe-WEB3/secure/blob/6e36d74595bba3d395a168adf769df37aa307057/git/image/Pasted%20image%2020230510141028.png)
-
 
 ** 如果已经链接到了远程仓库，可以通过`git remote rm origin`重新进行连接。
 
