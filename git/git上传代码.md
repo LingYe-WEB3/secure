@@ -10,10 +10,10 @@
 	仓库的可见性
 	是否创建readme.md文件
 	点击创建
-	![[Pasted image 20230510111548.png]]
+	![img](https://github.com/LingYe-WEB3/secure/blob/eed589c47c8f8ad4978091db70824a1121a4a3e1/git/image/Pasted%20image%2020230510111548.png)
 
 3. 远程仓库创建成功，这里显示的是你的仓库地址。
-	![[Pasted image 20230510111902.png]]
+	![img](https://github.com/LingYe-WEB3/secure/blob/eed589c47c8f8ad4978091db70824a1121a4a3e1/git/image/Pasted%20image%2020230510111902.png)
 
 
 
@@ -76,3 +76,17 @@ git push origin main
 
 
 ** 如果已经链接到了远程仓库，可以通过`git remote rm origin`重新进行连接。
+
+跟新本地仓库文件（覆盖写入）
+```
+git fetch --all
+git pull 
+git reset --hard origin main
+```
+
+跟新本地仓库，合并写入
+```
+git stach
+git pull
+git stach pop
+```
