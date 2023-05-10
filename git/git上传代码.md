@@ -20,7 +20,7 @@
 ### 2. 创建远程仓库后第一次上传代码
 
 1.  创建一个文件夹为本地仓库，用git bash here打开本地文件夹
-    ![[Pasted image 20230510112212.png]]
+    ![img](https://github.com/LingYe-WEB3/secure/blob/6e36d74595bba3d395a168adf769df37aa307057/git/image/Pasted%20image%2020230510112212.png)
 
 2.  添加你要上传的内容，比如下面这句话就是在本地仓库中创建了一个markdown格式的文件，命名为readme。内容为: # test
 	`echo "# test" >> readme.md`
@@ -37,19 +37,17 @@
 7. 从本地推送到远程仓库
 	`git push -u origin main`
 
-
-![[Pasted image 20230510135416.png]]
+ ![img](https://github.com/LingYe-WEB3/secure/blob/6e36d74595bba3d395a168adf769df37aa307057/git/image/Pasted%20image%2020230510135416.png)
 
 
 刷新仓库，发现文件已经成功上传
-![[Pasted image 20230510135526.png]]
+![img](https://github.com/LingYe-WEB3/secure/blob/6e36d74595bba3d395a168adf769df37aa307057/git/image/Pasted%20image%2020230510135526.png)
 
 
 ### 3. 后续上传代码：
 
 首先要把远程仓库的代码同步到本地
-![[Pasted image 20230510142610.png]]
-
+![img](https://github.com/LingYe-WEB3/secure/blob/6e36d74595bba3d395a168adf769df37aa307057/git/image/Pasted%20image%2020230510142610.png)
 
 然后做以下操作新增代码到远程：
 1. 在文件中放入你新增的代码
@@ -70,9 +68,11 @@ git commit -m "second commit"
 git push origin main
 ```
 
-![[Pasted image 20230510140804.png]]
+![img](https://github.com/LingYe-WEB3/secure/blob/6e36d74595bba3d395a168adf769df37aa307057/git/image/Pasted%20image%2020230510140804.png)
+
 刷新仓库，查看新增的文件
-![[Pasted image 20230510141028.png]]
+
+![img](https://github.com/LingYe-WEB3/secure/blob/6e36d74595bba3d395a168adf769df37aa307057/git/image/Pasted%20image%2020230510141028.png)
 
 
 ** 如果已经链接到了远程仓库，可以通过`git remote rm origin`重新进行连接。
