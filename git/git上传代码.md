@@ -4,7 +4,7 @@
 
 ### 1. 创建远程仓库
 1.  打开你的git，选择新建仓库
-	![test](./image/Pasted image 20230510111306.png)
+	![img](https://github.com/LingYe-WEB3/secure/blob/f456fa010c928145a516ed01b9bcf46e169285a7/git/image/Pasted%20image%2020230510111306.png)
 2. 
 	填写仓库名称
 	仓库的可见性
