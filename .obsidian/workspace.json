@@ -11,20 +11,23 @@
             "id": "a18d74737f580cb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CTF/ethernaut/README.md",
-                "mode": "source",
-                "source": false
+                "file": "CTF/ethernaut/images/Pasted image 20230515215612.png"
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "7069e5249aebf499",
+=======
+            "id": "e0bc261f6ad079b7",
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "CTF/ethernaut/ethernaut 第6-10关.md",
                 "mode": "source",
                 "source": false
@@ -38,13 +41,20 @@
               "type": "markdown",
               "state": {
                 "file": "Delegation.md",
+=======
+                "file": "CTF/ethernaut/README.md",
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 2
+=======
+        ]
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Delegation.md",
+=======
+                "file": "CTF/ethernaut/images/Pasted image 20230515215612.png",
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +149,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Delegation.md",
+=======
+                "file": "CTF/ethernaut/images/Pasted image 20230515215612.png",
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +176,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Delegation.md"
+=======
+                "file": "CTF/ethernaut/images/Pasted image 20230515215612.png"
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
               }
             }
           }
@@ -179,12 +201,25 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< HEAD
   "active": "fbc6b78083a509d2",
   "lastOpenFiles": [
     "Pasted image 20230515140705.png",
     "CTF/ethernaut/README.md",
     "Delegation.md",
     "CTF/ethernaut/ethernaut 第6-10关.md",
+=======
+  "active": "a18d74737f580cb0",
+  "lastOpenFiles": [
+    "CTF/ethernaut/images/Pasted image 20230515215825.png",
+    "CTF/ethernaut/images/Pasted image 20230515214331.png",
+    "CTF/ethernaut/csdn/Force.md",
+    "CTF/ethernaut/ethernaut 第6-10关.md",
+    "CTF/ethernaut/README.md",
+    "CTF/ethernaut/images/Pasted image 20230515215612.png",
+    "CTF/ethernaut/csdn/Fallout.md",
+    "CTF/ethernaut/csdn/Token.md",
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
     "CTF/ethernaut/csdn/Telephone.md",
     "CTF/ethernaut/csdn/Fallout.md",
     "CTF/ethernaut/ethernaut 第1-5关.md",
@@ -192,6 +227,10 @@
     "CTF/ethernaut/images/Pasted image 20230511145928.png",
     "CTF/ethernaut/images/Pasted image 20230511143936.png",
     "CTF/ethernaut/images/Pasted image 20230511143833.png",
+<<<<<<< HEAD
+=======
+    "CTF/ethernaut/ethernaut 第1-5关.md",
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
     "CTF/ethernaut/images/Pasted image 20230511141951.png",
     "CTF/ethernaut/images/Pasted image 20230511142044.png",
     "CTF/ethernaut/csdn/CoinFlip.md",
@@ -200,10 +239,12 @@
     "CTF/ethernaut/images/Pasted image 20230511111609.png",
     "CTF/ethernaut/ethernaut 第16-~关.md",
     "CTF/ethernaut/csdn",
+<<<<<<< HEAD
     "CTF/ethernaut/images/Pasted image 20230513100901.png",
+=======
+>>>>>>> 778e6e051c99ba8856ae770012808993cb8f764b
     "ethernaut.md",
     "CTF/ethernaut/ethernaut 第11-15关.md",
-    "CTF/ethernaut/images/Pasted image 20230511151718.png",
     "CTF/ethernaut/images",
     "git/git本地和远程冲突的解决方式.md",
     "git/git上传代码.md",
