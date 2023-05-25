@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "链上安全事件分析/跟踪漏洞交易流程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018c38fc9e624572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CTF/ethernaut/ethernaut 第16-~关.md",
                 "mode": "source",
                 "source": false
@@ -32,12 +20,12 @@
             }
           },
           {
-            "id": "1133482a28ea69a1",
+            "id": "7b2f5772d6c83189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/ethernaut/csdn/Recovery.md",
+                "file": "AlienCodex.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/ethernaut/ethernaut 第16-~关.md",
+                "file": "AlienCodex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/ethernaut/ethernaut 第16-~关.md",
+                "file": "AlienCodex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/ethernaut/ethernaut 第16-~关.md"
+                "file": "AlienCodex.md"
               }
             }
           }
@@ -183,12 +171,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "018c38fc9e624572",
+  "active": "7b2f5772d6c83189",
   "lastOpenFiles": [
+    "Pasted image 20230525174904.png",
+    "CTF/ethernaut/ethernaut 第16-~关.md",
+    "AlienCodex.md",
+    "链上安全事件分析/BEGO.md",
+    "链上安全事件分析/跟踪漏洞交易流程.md",
+    "CTF/ethernaut/README.md",
+    "CTF/ethernaut/csdn/Recovery.md",
     "CTF/ethernaut/csdn/MagicNum.md",
     "CTF/ethernaut/images/Pasted image 20230521213807.png",
     "CTF/ethernaut/csdn/Preservation.md",
-    "CTF/ethernaut/csdn/Recovery.md",
     "CTF/ethernaut/images/Pasted image 20230521211357.png",
     "CTF/ethernaut/images/Pasted image 20230521211306.png",
     "CTF/ethernaut/images/Pasted image 20230521211206.png",
@@ -198,12 +192,8 @@
     "CTF/ethernaut/images/Pasted image 20230521205124.png",
     "CTF/ethernaut/images/Pasted image 20230521204944.png",
     "CTF/ethernaut/images/2023-05-21_201052.png",
-    "CTF/ethernaut/ethernaut 第16-~关.md",
-    "CTF/ethernaut/README.md",
     "链上安全事件分析/HEALTH.md",
-    "BEGO.md",
     "链上安全事件分析/README.md",
-    "链上安全事件分析/跟踪漏洞交易流程.md",
     "链上安全事件分析/BondFixedExpiryTeller.md",
     "CTF/ethernaut/csdn/NaughtCoin.md",
     "CTF/ethernaut/csdn/GatekeeperTwo.md",

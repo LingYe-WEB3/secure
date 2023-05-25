@@ -123,7 +123,7 @@ contract Exploit is Test{
         // 攻击后WBNB
 
         console.log("WBNB owned before attack:",WBNB.balanceOf(address(this)));
-
+[[ethernaut 第16-~关]]
     }
 
   
